@@ -1,7 +1,7 @@
 # ExpressJS MVC Template
 
 This is a template for building MVC projects with ExpressJS (database: MongoDB).
-Based on (this tutorial)[https://code.tutsplus.com/tutorials/build-a-complete-mvc-website-with-expressjs--net-34168]
+Based on [this tutorial](https://code.tutsplus.com/tutorials/build-a-complete-mvc-website-with-expressjs--net-34168)
 
 ## Prerequisites [Tested versions]
 
