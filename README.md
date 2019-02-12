@@ -6,33 +6,33 @@ Based on [this tutorial](https://code.tutsplus.com/tutorials/build-a-complete-mv
 ## Prerequisites [Tested versions]
 
 ```MongoDB [4.0.3]```  
-```NodeJS [6.x]```
-```npm [6.7.0]```
-```ExpressJS [4.16.0]```
+```NodeJS [6.x]```  
+```npm [6.7.0]```  
+```ExpressJS [4.16.0]```  
 
 ## Documentation
 
 ### Installation
 
-```git clone git@github.com:gl14916/ExpressJS-MVC-Template.git```
-```cd ExpressJS-MVC-Template```
-```npm install```
+```git clone git@github.com:gl14916/ExpressJS-MVC-Template.git```  
+```cd ExpressJS-MVC-Template```  
+```npm install```  
 
 ### Database
 Configurations located in /config/db.js
-database name: ```[database name]```
-database port: ```[database port]```
-database url: ```[database url]```
-database username: ```[database username]```
-database password: 	```[database password]```
+database name: ```[database name]```  
+database port: ```[database port]```  
+database url: ```[database url]```  
+database username: ```[database username]```  
+database password: 	```[database password]```  
 
 ### Server Actions
 #### Starting the server
-```npm start [local | staging | production]```
+```npm start [local | staging | production]```  
 ##### Ports
-* ```local (default): 3000```
-* ```staging: 3001```
-* ```production: 3002```
+* ```local (default): 3000```  
+* ```staging: 3001```  
+* ```production: 3002```  
 
 #### Testing the server
-```npm test```
+```npm test```  
